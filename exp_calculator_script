@@ -1,0 +1,21 @@
+Script started on Tue 16 Oct 2018 07:36:00 PM EDT
+]0;ahusein3@cs2211:~/cs2211/asn2[?1034h[ahusein3@cs2211 asn2]$ pwd
+/gaul/s1/student/2018/ahusein3/cs2211/asn2
+]0;ahusein3@cs2211:~/cs2211/asn2[ahusein3@cs2211 asn2]$ date
+Tue Oct 16 19:36:05 EDT 2018
+]0;ahusein3@cs2211:~/cs2211/asn2[ahusein3@cs2211 asn2]$ who am i
+ahusein3 pts/7        2018-10-16 19:36
+]0;ahusein3@cs2211:~/cs2211/asn2[ahusein3@cs2211 asn2]$ ./exp_calculator
+What would you like your base to be?: 1
+
+What would you like your exponent to be?: 3
+
+Your final result is 1.00]0;ahusein3@cs2211:~/cs2211/asn2[ahusein3@cs2211 asn2]$ ./exp_calculator
+What would you like your base to be?: 5
+
+What would you like your exponent to be?: 3
+
+Your final result is 125.00]0;ahusein3@cs2211:~/cs2211/asn2[ahusein3@cs2211 asn2]$ exit
+exit
+
+Script done on Tue 16 Oct 2018 07:36:30 PM EDT

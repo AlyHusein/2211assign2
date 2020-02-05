@@ -1,0 +1,101 @@
+Script started on Tue 16 Oct 2018 07:34:50 PM EDT
+]0;ahusein3@cs2211:~/cs2211/asn2[?1034h[ahusein3@cs2211 asn2]$ pwd
+/gaul/s1/student/2018/ahusein3/cs2211/asn2
+]0;ahusein3@cs2211:~/cs2211/asn2[ahusein3@cs2211 asn2]$ date
+Tue Oct 16 19:34:53 EDT 2018
+]0;ahusein3@cs2211:~/cs2211/asn2[ahusein3@cs2211 asn2]$ who am i
+ahusein3 pts/16       2018-10-16 19:34
+]0;ahusein3@cs2211:~/cs2211/asn2[ahusein3@cs2211 asn2]$ ./converter
+
+What action would you like to choose? 
+1. Kilometer/Mile Converter 
+2. Meter/Feet Converter
+3. Centimetre/Inch Converter 
+4. Celsius/Fahrenheit Converter 
+5. Quit
+1
+
+Please enter 'K' for Kilometre to Mile or 'M' for the opposite: K
+
+Please enter the value you would like to convert: 2
+
+Your new value is 1.24 Miles
+What action would you like to choose? 
+1. Kilometer/Mile Converter 
+2. Meter/Feet Converter
+3. Centimetre/Inch Converter 
+4. Celsius/Fahrenheit Converter 
+5. Quit
+
+Please input a number between 1 and 5: 2
+
+What action would you like to choose? 
+1. Kilometer/Mile Converter 
+2. Meter/Feet Converter
+3. Centimetre/Inch Converter 
+4. Celsius/Fahrenheit Converter 
+5. Quit
+2
+
+Please enter 'M' to switch from Meters to Feet, or 'F' for the opposite: M
+
+Please enter the value you'd like to convert: 3
+
+Your new value is 9.84 feet
+What action would you like to choose? 
+1. Kilometer/Mile Converter 
+2. Meter/Feet Converter
+3. Centimetre/Inch Converter 
+4. Celsius/Fahrenheit Converter 
+5. Quit
+
+
+Please input a number between 1 and 5: 4 3
+
+What action would you like to choose? 
+1. Kilometer/Mile Converter 
+2. Meter/Feet Converter
+3. Centimetre/Inch Converter 
+4. Celsius/Fahrenheit Converter 
+5. Quit
+3
+
+Please enter 'C' to switch from Centimeteres to Inches, or 'I' for the opposite: C
+
+Please enter the value you'd like to convert: 7
+
+Your new value is 2.76 Inches
+What action would you like to choose? 
+1. Kilometer/Mile Converter 
+2. Meter/Feet Converter
+3. Centimetre/Inch Converter 
+4. Celsius/Fahrenheit Converter 
+5. Quit
+
+Please input a number between 1 and 5: 4
+
+What action would you like to choose? 
+1. Kilometer/Mile Converter 
+2. Meter/Feet Converter
+3. Centimetre/Inch Converter 
+4. Celsius/Fahrenheit Converter 
+5. Quit
+4
+
+Please enter 'C' to switch from Celsius to Fahrenheit, or 'F' for the opposite: F
+
+Please enter the value you'd like to convert: 23
+
+Your new value is -5.00 Celsius
+What action would you like to choose? 
+1. Kilometer/Mile Converter 
+2. Meter/Feet Converter
+3. Centimetre/Inch Converter 
+4. Celsius/Fahrenheit Converter 
+5. Quit
+5
+
+Thank you, goodbye.]0;ahusein3@cs2211:~/cs2211/asn2[ahusein3@cs2211 asn2]$ exit
+exit
+
+Script done on Tue 16 Oct 2018 07:35:35 PM EDT
